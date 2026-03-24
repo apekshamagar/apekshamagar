@@ -1,4 +1,4 @@
-![logo](https://gitgub.com/apekshamagar/apekshamagar/blob/main/github banner.png)
+![logo](https://gitgub.com/apekshamagar/apekshamagar/blob/main/C:\Users\hp\Downloads github banner.png)
 <h1 align="center">Hi 👋, I'm Apeksha Magar</h1>
 <h3 align="center">🚀 Learning Full Stack Development | Java | Web Development 💻</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5464.jpg?semt=ais_hybrid&w=740&q=80">
